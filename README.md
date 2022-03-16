@@ -1,7 +1,9 @@
 # **Emmanuel Zeta**
 
-### Hi there 👋
+### Hi there 👋🏾
 
+My name is Emmanuel and I'm an aspiring data scientist / full stack engineer from London (🇬🇧).
+I recently acheived a **First Class (Hons)** in **Physics** at the University of Nottingham and I'm looking to delve deep into the tech scene!
 <!--
 **eazeta/eazeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
