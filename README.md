@@ -8,7 +8,8 @@ Although I have a background in Web Development, I have a personal interest in d
 
 I recently acheived a **First Class (Hons)** in **BSc Physics** at the University of Nottingham and I'm looking to delve deep into the tech scene!
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="48">
+
 <!--
 **eazeta/eazeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
