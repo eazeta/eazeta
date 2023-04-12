@@ -1,4 +1,6 @@
-I'm Emmanuel, and I currently work as a Technical Business Analyst in Web Development. I've recently developed a strong interest in data engineering. I enjoy problem-solving and thrive on finding solutions to complex challenges.
+# Emmanuel Zeta
+
+Hi! I'm Emmanuel, and I currently work as a Technical Business Analyst in Web Development. I've recently developed a strong interest in data engineering. I enjoy problem-solving and thrive on finding solutions to complex challenges.
 
 🔭 Current Work
 
@@ -6,7 +8,7 @@ Technical Business Analyst at Acturis, where I have experience in web developmen
 
 🌱 I’m currently learning
 
-Data Engineering, including tools such as Apache Spark, Hadoop, and SQL.
+Data Engineering, including tools such as Python and SQL.
 
 💬 Ask me about
 
@@ -28,18 +30,11 @@ I am an avid music listener and enjoyer and I produce my own songs.
 
 I am passionate about exploring the potential of data and its many applications, and I am seeking a role where I can leverage my skills and experience as well as continue to learn and develop my skills in the area of data engineering.
 
+---
 
-<!--
-**eazeta/eazeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Toolbox
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=60px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=60px/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
