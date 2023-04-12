@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/eazeta/
 
 🎓 Education
 
-I graduated from the University of Nottingham with a First Class hons degree in Bsc Physics.
+I graduated from the University of Nottingham with a First Class hons degree in Bsc Physics. During my time at university, I developed a deep understanding for MATLAB and utilised it for multiple projects.
 
 ⚡ Fun fact
 
@@ -33,8 +33,19 @@ I am passionate about exploring the potential of data and its many applications,
 ---
 
 🧰 Toolbox
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=60px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=58px/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height=60px/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=60px/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=60px/>
+
+
+
+
 
 
 ---
