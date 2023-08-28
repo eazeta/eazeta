@@ -2,6 +2,8 @@
 
 Hi! I'm Emmanuel, and I currently work as a Technical Business Analyst in Web Development. I've recently developed a strong interest in data engineering. I enjoy problem-solving and thrive on finding solutions to complex challenges.
 
+Check out my website at www.emmanuelzeta.com/
+
 ## 🔭 Current Work
 
 Technical Business Analyst at Acturis, where I have experience in web development, including debugging APIs, specing, building, and maintaining websites.
